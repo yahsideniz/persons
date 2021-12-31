@@ -1,1 +1,1 @@
-A simple contact list app made with React.js
+A simple person list app made with React.js
